@@ -1,0 +1,19 @@
+จัดรวม File css อยู่ในที่เดียวกัน แล้วเรียก path ใช้ใน folder/file นั้น
+อะไรที่ใช้งานคล้ายกัน ก็ตั้งชื่อให้คล้ายกัน หรือให้ดูเป็นหมวดหมู่เดียวกันตังตัวอย่าง
+
+.btn.btn-light {
+    color: #607080
+}
+
+.btn.btn-dark {
+    color: #fff
+}
+
+.card .card-body {
+    padding: 1.5rem
+}
+
+.card .card-body {
+    padding: 1.5rem
+}
+
